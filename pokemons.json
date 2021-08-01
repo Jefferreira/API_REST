@@ -1,0 +1,757 @@
+{
+    "1": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/bulbasaur.png",
+        "nome": "Bulbasaur",
+        "tipos": "Grass, Poison"
+    },
+    "2": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/ivysaur.png",
+        "nome": "Ivysaur",
+        "tipos": "Grass, Poison"
+    },
+    "3": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/venusaur.png",
+        "nome": "Venusaur",
+        "tipos": "Grass, Poison"
+    },
+    "4": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/charmander.png",
+        "nome": "Charmander",
+        "tipos": "Fire"
+    },
+    "5": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/charmeleon.png",
+        "nome": "Charmeleon",
+        "tipos": "Fire"
+    },
+    "6": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/charizard.png",
+        "nome": "Charizard",
+        "tipos": "Fire, Flying"
+    },
+    "7": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/squirtle.png",
+        "nome": "Squirtle",
+        "tipos": "Water"
+    },
+    "8": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/wartortle.png",
+        "nome": "Wartortle",
+        "tipos": "Water"
+    },
+    "9": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/blastoise.png",
+        "nome": "Blastoise",
+        "tipos": "Water"
+    },
+    "10": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/caterpie.png",
+        "nome": "Caterpie",
+        "tipos": "Bug"
+    },
+    "11": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/metapod.png",
+        "nome": "Metapod",
+        "tipos": "Bug"
+    },
+    "12": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/butterfree.png",
+        "nome": "Butterfree",
+        "tipos": "Bug, Flying"
+    },
+    "13": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/weedle.png",
+        "nome": "Weedle",
+        "tipos": "Bug, Poison"
+    },
+    "14": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/kakuna.png",
+        "nome": "Kakuna",
+        "tipos": "Bug, Poison"
+    },
+    "15": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/beedrill.png",
+        "nome": "Beedrill",
+        "tipos": "Bug, Poison"
+    },
+    "16": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/pidgey.png",
+        "nome": "Pidgey",
+        "tipos": "Normal, Flying"
+    },
+    "17": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/pidgeotto.png",
+        "nome": "Pidgeotto",
+        "tipos": "Normal, Flying"
+    },
+    "18": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/pidgeot.png",
+        "nome": "Pidgeot",
+        "tipos": "Normal, Flying"
+    },
+    "19": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/rattata.png",
+        "nome": "Rattata",
+        "tipos": "Normal"
+    },
+    "20": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/raticate.png",
+        "nome": "Raticate",
+        "tipos": "Normal"
+    },
+    "21": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/spearow.png",
+        "nome": "Spearow",
+        "tipos": "Normal, Flying"
+    },
+    "22": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/fearow.png",
+        "nome": "Fearow",
+        "tipos": "Normal, Flying"
+    },
+    "23": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/ekans.png",
+        "nome": "Ekans",
+        "tipos": "Poison"
+    },
+    "24": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/arbok.png",
+        "nome": "Arbok",
+        "tipos": "Poison"
+    },
+    "25": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/pikachu.png",
+        "nome": "Pikachu",
+        "tipos": "Electric"
+    },
+    "26": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/raichu.png",
+        "nome": "Raichu",
+        "tipos": "Electric"
+    },
+    "27": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/sandshrew.png",
+        "nome": "Sandshrew",
+        "tipos": "Ground"
+    },
+    "28": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/sandslash.png",
+        "nome": "Sandslash",
+        "tipos": "Ground"
+    },
+    "29": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/nidoran-f.png",
+        "nome": "Nidoran\u2640",
+        "tipos": "Poison"
+    },
+    "30": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/nidorina.png",
+        "nome": "Nidorina",
+        "tipos": "Poison"
+    },
+    "31": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/nidoqueen.png",
+        "nome": "Nidoqueen",
+        "tipos": "Poison, Ground"
+    },
+    "32": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/nidoran-m.png",
+        "nome": "Nidoran\u2642",
+        "tipos": "Poison"
+    },
+    "33": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/nidorino.png",
+        "nome": "Nidorino",
+        "tipos": "Poison"
+    },
+    "34": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/nidoking.png",
+        "nome": "Nidoking",
+        "tipos": "Poison, Ground"
+    },
+    "35": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/clefairy.png",
+        "nome": "Clefairy",
+        "tipos": "Fairy"
+    },
+    "36": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/clefable.png",
+        "nome": "Clefable",
+        "tipos": "Fairy"
+    },
+    "37": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/vulpix.png",
+        "nome": "Vulpix",
+        "tipos": "Fire"
+    },
+    "38": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/ninetales.png",
+        "nome": "Ninetales",
+        "tipos": "Fire"
+    },
+    "39": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/jigglypuff.png",
+        "nome": "Jigglypuff",
+        "tipos": "Normal, Fairy"
+    },
+    "40": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/wigglytuff.png",
+        "nome": "Wigglytuff",
+        "tipos": "Normal, Fairy"
+    },
+    "41": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/zubat.png",
+        "nome": "Zubat",
+        "tipos": "Poison, Flying"
+    },
+    "42": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/golbat.png",
+        "nome": "Golbat",
+        "tipos": "Poison, Flying"
+    },
+    "43": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/oddish.png",
+        "nome": "Oddish",
+        "tipos": "Grass, Poison"
+    },
+    "44": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/gloom.png",
+        "nome": "Gloom",
+        "tipos": "Grass, Poison"
+    },
+    "45": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/vileplume.png",
+        "nome": "Vileplume",
+        "tipos": "Grass, Poison"
+    },
+    "46": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/paras.png",
+        "nome": "Paras",
+        "tipos": "Bug, Grass"
+    },
+    "47": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/parasect.png",
+        "nome": "Parasect",
+        "tipos": "Bug, Grass"
+    },
+    "48": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/venonat.png",
+        "nome": "Venonat",
+        "tipos": "Bug, Poison"
+    },
+    "49": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/venomoth.png",
+        "nome": "Venomoth",
+        "tipos": "Bug, Poison"
+    },
+    "50": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/diglett.png",
+        "nome": "Diglett",
+        "tipos": "Ground"
+    },
+    "51": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/dugtrio.png",
+        "nome": "Dugtrio",
+        "tipos": "Ground"
+    },
+    "52": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/meowth.png",
+        "nome": "Meowth",
+        "tipos": "Normal"
+    },
+    "53": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/persian.png",
+        "nome": "Persian",
+        "tipos": "Normal"
+    },
+    "54": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/psyduck.png",
+        "nome": "Psyduck",
+        "tipos": "Water"
+    },
+    "55": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/golduck.png",
+        "nome": "Golduck",
+        "tipos": "Water"
+    },
+    "56": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/mankey.png",
+        "nome": "Mankey",
+        "tipos": "Fighting"
+    },
+    "57": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/primeape.png",
+        "nome": "Primeape",
+        "tipos": "Fighting"
+    },
+    "58": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/growlithe.png",
+        "nome": "Growlithe",
+        "tipos": "Fire"
+    },
+    "59": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/arcanine.png",
+        "nome": "Arcanine",
+        "tipos": "Fire"
+    },
+    "60": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/poliwag.png",
+        "nome": "Poliwag",
+        "tipos": "Water"
+    },
+    "61": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/poliwhirl.png",
+        "nome": "Poliwhirl",
+        "tipos": "Water"
+    },
+    "62": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/poliwrath.png",
+        "nome": "Poliwrath",
+        "tipos": "Water, Fighting"
+    },
+    "63": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/abra.png",
+        "nome": "Abra",
+        "tipos": "Psychic"
+    },
+    "64": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/kadabra.png",
+        "nome": "Kadabra",
+        "tipos": "Psychic"
+    },
+    "65": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/alakazam.png",
+        "nome": "Alakazam",
+        "tipos": "Psychic"
+    },
+    "66": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/machop.png",
+        "nome": "Machop",
+        "tipos": "Fighting"
+    },
+    "67": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/machoke.png",
+        "nome": "Machoke",
+        "tipos": "Fighting"
+    },
+    "68": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/machamp.png",
+        "nome": "Machamp",
+        "tipos": "Fighting"
+    },
+    "69": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/bellsprout.png",
+        "nome": "Bellsprout",
+        "tipos": "Grass, Poison"
+    },
+    "70": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/weepinbell.png",
+        "nome": "Weepinbell",
+        "tipos": "Grass, Poison"
+    },
+    "71": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/victreebel.png",
+        "nome": "Victreebel",
+        "tipos": "Grass, Poison"
+    },
+    "72": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/tentacool.png",
+        "nome": "Tentacool",
+        "tipos": "Water, Poison"
+    },
+    "73": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/tentacruel.png",
+        "nome": "Tentacruel",
+        "tipos": "Water, Poison"
+    },
+    "74": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/geodude.png",
+        "nome": "Geodude",
+        "tipos": "Rock, Ground"
+    },
+    "75": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/graveler.png",
+        "nome": "Graveler",
+        "tipos": "Rock, Ground"
+    },
+    "76": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/golem.png",
+        "nome": "Golem",
+        "tipos": "Rock, Ground"
+    },
+    "77": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/ponyta.png",
+        "nome": "Ponyta",
+        "tipos": "Fire"
+    },
+    "78": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/rapidash.png",
+        "nome": "Rapidash",
+        "tipos": "Fire"
+    },
+    "79": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/slowpoke.png",
+        "nome": "Slowpoke",
+        "tipos": "Water, Psychic"
+    },
+    "80": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/slowbro.png",
+        "nome": "Slowbro",
+        "tipos": "Water, Psychic"
+    },
+    "81": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/magnemite.png",
+        "nome": "Magnemite",
+        "tipos": "Electric, Steel"
+    },
+    "82": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/magneton.png",
+        "nome": "Magneton",
+        "tipos": "Electric, Steel"
+    },
+    "83": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/farfetchd.png",
+        "nome": "Farfetch'd",
+        "tipos": "Normal, Flying"
+    },
+    "84": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/doduo.png",
+        "nome": "Doduo",
+        "tipos": "Normal, Flying"
+    },
+    "85": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/dodrio.png",
+        "nome": "Dodrio",
+        "tipos": "Normal, Flying"
+    },
+    "86": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/seel.png",
+        "nome": "Seel",
+        "tipos": "Water"
+    },
+    "87": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/dewgong.png",
+        "nome": "Dewgong",
+        "tipos": "Water, Ice"
+    },
+    "88": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/grimer.png",
+        "nome": "Grimer",
+        "tipos": "Poison"
+    },
+    "89": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/muk.png",
+        "nome": "Muk",
+        "tipos": "Poison"
+    },
+    "90": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/shellder.png",
+        "nome": "Shellder",
+        "tipos": "Water"
+    },
+    "91": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/cloyster.png",
+        "nome": "Cloyster",
+        "tipos": "Water, Ice"
+    },
+    "92": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/gastly.png",
+        "nome": "Gastly",
+        "tipos": "Ghost, Poison"
+    },
+    "93": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/haunter.png",
+        "nome": "Haunter",
+        "tipos": "Ghost, Poison"
+    },
+    "94": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/gengar.png",
+        "nome": "Gengar",
+        "tipos": "Ghost, Poison"
+    },
+    "95": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/onix.png",
+        "nome": "Onix",
+        "tipos": "Rock, Ground"
+    },
+    "96": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/drowzee.png",
+        "nome": "Drowzee",
+        "tipos": "Psychic"
+    },
+    "97": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/hypno.png",
+        "nome": "Hypno",
+        "tipos": "Psychic"
+    },
+    "98": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/krabby.png",
+        "nome": "Krabby",
+        "tipos": "Water"
+    },
+    "99": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/kingler.png",
+        "nome": "Kingler",
+        "tipos": "Water"
+    },
+    "100": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/voltorb.png",
+        "nome": "Voltorb",
+        "tipos": "Electric"
+    },
+    "101": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/electrode.png",
+        "nome": "Electrode",
+        "tipos": "Electric"
+    },
+    "102": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/exeggcute.png",
+        "nome": "Exeggcute",
+        "tipos": "Grass, Psychic"
+    },
+    "103": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/exeggutor.png",
+        "nome": "Exeggutor",
+        "tipos": "Grass, Psychic"
+    },
+    "104": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/cubone.png",
+        "nome": "Cubone",
+        "tipos": "Ground"
+    },
+    "105": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/marowak.png",
+        "nome": "Marowak",
+        "tipos": "Ground"
+    },
+    "106": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/hitmonlee.png",
+        "nome": "Hitmonlee",
+        "tipos": "Fighting"
+    },
+    "107": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/hitmonchan.png",
+        "nome": "Hitmonchan",
+        "tipos": "Fighting"
+    },
+    "108": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/lickitung.png",
+        "nome": "Lickitung",
+        "tipos": "Normal"
+    },
+    "109": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/koffing.png",
+        "nome": "Koffing",
+        "tipos": "Poison"
+    },
+    "110": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/weezing.png",
+        "nome": "Weezing",
+        "tipos": "Poison"
+    },
+    "111": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/rhyhorn.png",
+        "nome": "Rhyhorn",
+        "tipos": "Ground, Rock"
+    },
+    "112": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/rhydon.png",
+        "nome": "Rhydon",
+        "tipos": "Ground, Rock"
+    },
+    "113": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/chansey.png",
+        "nome": "Chansey",
+        "tipos": "Normal"
+    },
+    "114": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/tangela.png",
+        "nome": "Tangela",
+        "tipos": "Grass"
+    },
+    "115": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/kangaskhan.png",
+        "nome": "Kangaskhan",
+        "tipos": "Normal"
+    },
+    "116": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/horsea.png",
+        "nome": "Horsea",
+        "tipos": "Water"
+    },
+    "117": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/seadra.png",
+        "nome": "Seadra",
+        "tipos": "Water"
+    },
+    "118": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/goldeen.png",
+        "nome": "Goldeen",
+        "tipos": "Water"
+    },
+    "119": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/seaking.png",
+        "nome": "Seaking",
+        "tipos": "Water"
+    },
+    "120": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/staryu.png",
+        "nome": "Staryu",
+        "tipos": "Water"
+    },
+    "121": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/starmie.png",
+        "nome": "Starmie",
+        "tipos": "Water, Psychic"
+    },
+    "122": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/mr-mime.png",
+        "nome": "Mr. Mime",
+        "tipos": "Psychic, Fairy"
+    },
+    "123": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/scyther.png",
+        "nome": "Scyther",
+        "tipos": "Bug, Flying"
+    },
+    "124": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/jynx.png",
+        "nome": "Jynx",
+        "tipos": "Ice, Psychic"
+    },
+    "125": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/electabuzz.png",
+        "nome": "Electabuzz",
+        "tipos": "Electric"
+    },
+    "126": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/magmar.png",
+        "nome": "Magmar",
+        "tipos": "Fire"
+    },
+    "127": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/pinsir.png",
+        "nome": "Pinsir",
+        "tipos": "Bug"
+    },
+    "128": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/tauros.png",
+        "nome": "Tauros",
+        "tipos": "Normal"
+    },
+    "129": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/magikarp.png",
+        "nome": "Magikarp",
+        "tipos": "Water"
+    },
+    "130": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/gyarados.png",
+        "nome": "Gyarados",
+        "tipos": "Water, Flying"
+    },
+    "131": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/lapras.png",
+        "nome": "Lapras",
+        "tipos": "Water, Ice"
+    },
+    "132": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/ditto.png",
+        "nome": "Ditto",
+        "tipos": "Normal"
+    },
+    "133": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/eevee.png",
+        "nome": "Eevee",
+        "tipos": "Normal"
+    },
+    "134": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/vaporeon.png",
+        "nome": "Vaporeon",
+        "tipos": "Water"
+    },
+    "135": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/jolteon.png",
+        "nome": "Jolteon",
+        "tipos": "Electric"
+    },
+    "136": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/flareon.png",
+        "nome": "Flareon",
+        "tipos": "Fire"
+    },
+    "137": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/porygon.png",
+        "nome": "Porygon",
+        "tipos": "Normal"
+    },
+    "138": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/omanyte.png",
+        "nome": "Omanyte",
+        "tipos": "Rock, Water"
+    },
+    "139": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/omastar.png",
+        "nome": "Omastar",
+        "tipos": "Rock, Water"
+    },
+    "140": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/kabuto.png",
+        "nome": "Kabuto",
+        "tipos": "Rock, Water"
+    },
+    "141": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/kabutops.png",
+        "nome": "Kabutops",
+        "tipos": "Rock, Water"
+    },
+    "142": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/aerodactyl.png",
+        "nome": "Aerodactyl",
+        "tipos": "Rock, Flying"
+    },
+    "143": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/snorlax.png",
+        "nome": "Snorlax",
+        "tipos": "Normal"
+    },
+    "144": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/articuno.png",
+        "nome": "Articuno",
+        "tipos": "Ice, Flying"
+    },
+    "145": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/zapdos.png",
+        "nome": "Zapdos",
+        "tipos": "Electric, Flying"
+    },
+    "146": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/moltres.png",
+        "nome": "Moltres",
+        "tipos": "Fire, Flying"
+    },
+    "147": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/dratini.png",
+        "nome": "Dratini",
+        "tipos": "Dragon"
+    },
+    "148": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/dragonair.png",
+        "nome": "Dragonair",
+        "tipos": "Dragon"
+    },
+    "149": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/dragonite.png",
+        "nome": "Dragonite",
+        "tipos": "Dragon, Flying"
+    },
+    "150": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/mewtwo.png",
+        "nome": "Mewtwo",
+        "tipos": "Psychic"
+    },
+    "151": {
+        "imagem_origem": "https://img.pokemondb.net/sprites/bank/normal/mew.png",
+        "nome": "Mew",
+        "tipos": "Psychic"
+    }
+}

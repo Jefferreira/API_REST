@@ -1,0 +1,17 @@
+{% extends 'pokemon/base.html' %}
+{% block content %}
+<div class="container">
+  <div class="row">
+    <div class="col-4 mx-auto text-center">
+      <h2>{{ pokemon.nome }}</h2>
+    </div>
+  </div>
+
+  <div class="row">
+      <div class="col-4 mx-auto text-center">
+	<img src="{{ pokemon.imagem_origem }}"><br>
+        <small>{{ pokemon.tipos }}</small>
+      </div>
+  </div>
+</div>
+{% endblock %}
