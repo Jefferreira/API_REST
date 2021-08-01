@@ -2,16 +2,6 @@
 
 #**Descrição:**
 
-Para execuçação do programa e preciso ter um ambiente virtual instalado.
-
-#**Aluno:**
-
-Jeferson Ferreira Freitas
-
-#**Data:**
-
-01/08/2021
-
 <b>Atenção!!! todos os comandos devem ser executados na pasta raiz do projeto.</b>
 
 ## Requisitos
@@ -35,3 +25,14 @@ aqui vai o comandos para adicionar os registros...
 execute `python api_rest/manage.py runserver`
 
 Acesse o localhost através do seguinte link: http://127.0.0.1:8000/
+
+#**Aluno:**
+
+Jeferson Ferreira Freitas
+
+#**Data:**
+
+01/08/2021
+
+
+
